@@ -71,7 +71,7 @@ cat > "/home/$username/domains/$domain/public_html/package.json" << EOF
   "description": "Node.js Server",
   "main": "index.js",
   "author": "fkj",
-  "repository": "https://github.com/frankiejun/node-ws",
+  "repository": "https://github.com/MaJiD-PaGeS/node-ws",
   "license": "MIT",
   "private": false,
   "scripts": {
